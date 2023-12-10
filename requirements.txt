@@ -1,0 +1,9 @@
+streamlit
+openai==0.28
+streamlit_option_menu
+pytz
+datetime
+pandas
+numpy
+python-dotenv
+
